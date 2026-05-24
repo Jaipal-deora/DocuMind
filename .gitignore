@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# other 
+.env
+qdrant_storage/
+*.pyc
+setup_process.md
+data/
+exp_old/
+recommended_structure.md
+main.py
+config.yaml
+experiments/
